@@ -62,7 +62,7 @@
                      <div class="post-item-date">
                         <div class="post-date">
                            <span class="date"><?php echo $rows['day']; ?></span>
-                           <span class="month"><?php echo datethai($rows['month']); ?></span>
+                           <span class="month"><?php echo DateThai($rows['month']); ?></span>
                         </div>
                      </div>
                      <!-- End Post Item Date -->
