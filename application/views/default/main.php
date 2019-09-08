@@ -63,7 +63,7 @@
    <!-- Video Popup -->
    <script src="<?php echo base_url();?>assets/themes/default/js/jquery.magnific.popup.js"></script>
    <!-- Smooth scroll -->
-   <script src="<?php echo base_url();?>assets/themes/default/js/smoothscroll.js"></script>
+   <!-- <script src="<?php echo base_url();?>assets/themes/default/js/smoothscroll.js"></script> -->
    <!-- WoW js -->
    <script src="<?php echo base_url();?>assets/themes/default/js/wow.min.js"></script>
    <!-- Template Custom -->
