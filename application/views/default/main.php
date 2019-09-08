@@ -29,7 +29,7 @@
    <!-- Custom Css -->
    <link href="https://fonts.googleapis.com/css?family=Kanit&display=swap" rel="stylesheet">
    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
-   <script src="https://use.fontawesome.com/b3ff82e3f0.js"></script>
+   <!-- <script src="https://use.fontawesome.com/b3ff82e3f0.js"></script> -->
    <script src="https://kit.fontawesome.com/87096a12aa.js"></script>
 </head>
 
