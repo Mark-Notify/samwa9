@@ -12,6 +12,7 @@ class Home_model extends CI_model
 
     public function get_news($database=null)
     {
+        $this->db->select('*,DAY(time1) as day,MONTH(time1) as month');
         $this->db->order_by('id','DESC');
         $result = $this->db->get($database);
         return $result->result_array();

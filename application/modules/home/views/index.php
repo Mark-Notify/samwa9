@@ -61,8 +61,8 @@
                   <div class="post-body">
                      <div class="post-item-date">
                         <div class="post-date">
-                           <span class="date">29</span>
-                           <span class="month">May</span>
+                           <span class="date"><?php echo $rows['day']; ?></span>
+                           <span class="month"><?php echo $rows['month']; ?></span>
                         </div>
                      </div>
                      <!-- End Post Item Date -->
@@ -84,7 +84,7 @@
                            </p>
                         </div>
                         <!-- End Entry Content -->
-                        <a href="<?php echo base_url('home/detail/').$rows['id']?>" class="tw-readmore">Read More
+                        <a href="<?php echo base_url('home/detail/').$rows['id']?>" class="tw-readmore">อ่านเพิ่มเติม...
                            <i class="fa fa-angle-right"></i>
                         </a>
                      </div>
