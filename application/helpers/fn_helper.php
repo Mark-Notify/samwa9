@@ -3,7 +3,7 @@
 function DateThai($strDate)
 {
 	$strYear = date("Y",strtotime($strDate))+543;
-	$strMonth= date("n",strtotime($strDate));
+	$strMonth= date("m",strtotime($strDate));
 	$strDay= date("j",strtotime($strDate));
 	$strHour= date("H",strtotime($strDate));
 	$strMinute= date("i",strtotime($strDate));
