@@ -47,7 +47,7 @@
          <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-white">
                <a class="navbar-brand tw-nav-brand" href="index.html">
-                  <img src="<?php echo base_url();?>assets/themes/default/images/logo/logo.png" alt="seotime">
+                  <!-- <img src="<?php echo base_url();?>assets/themes/default/images/logo/logo.png" alt="seotime"> -->
                </a>
                <!-- End of Navbar Brand -->
                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
