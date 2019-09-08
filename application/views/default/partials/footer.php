@@ -55,11 +55,11 @@
                            <p class="footer-info-text" style="color: #fff;">
                            <div class="footer-social-link">
                               <ul>
-                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-facebook-f"></i></i></a></li>
+                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                               </ul>
                            </div>
                            <div class="tw-footer-info-box">
