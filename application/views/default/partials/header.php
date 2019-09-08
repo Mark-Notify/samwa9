@@ -1,5 +1,5 @@
 <?php
-   echo $url = $_SERVER['HTTP_HOST'];
+   echo $url = FCPATH;
    $curl = explode("/",$url);
 ?>
  <!-- style="background: url(http://58.181.196.41/onep/images/bg.png) no-repeat fixed center bottom / 100%;" -->
