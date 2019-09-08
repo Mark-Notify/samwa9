@@ -1,4 +1,7 @@
-
+<?php
+   echo $url = APPPATH;
+   $curl = explode("/",$url);
+?>
  <!-- style="background: url(http://58.181.196.41/onep/images/bg.png) no-repeat fixed center bottom / 100%;" -->
 <body style="background: #f5f5f5 url('<?php echo base_url()?>img/bg5.jpg');background-repeat: repeat;background-attachment: fixed;background-size: 100% 105%, auto;">
    <div class="search-bar">
@@ -54,26 +57,26 @@
                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                   <ul class="navbar-nav">
                      <li class="nav-item">
-                        <a class="nav-link <?php active('');?>" href="<?php echo base_url();?>">หน้าแรก</a>
+                        <a class="nav-link <?php echo active('');?>" href="<?php echo base_url();?>">หน้าแรก</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link <?php active('');?>" href="<?php echo base_url();?>about">เกี่ยวกับเรา</a>
+                        <a class="nav-link <?php echo active('about');?>" href="<?php echo base_url();?>about">เกี่ยวกับเรา</a>
                      </li>
-                     <li class="nav-item dropdown  <?php active('');?>">
+                     <li class="nav-item dropdown  <?php echo active('team');?>">
                         <a class="nav-link" href="#" data-toggle="dropdown">
                            สมาชิกองค์กร
                            <span class="tw-indicator"><i class="fa fa-angle-down"></i></span>
                         </a>
                         <ul class="dropdown-menu tw-dropdown-menu">
-                           <li class=" <?php active('team');?>"><a href="<?php echo base_url();?>team">คณะกรรมการ</a></li>
-                           <li class=" <?php active('manage');?>"><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li>
-                           <li class=" <?php active('check');?>"><a href="<?php echo base_url();?>team/check">คณะผู้ตรวจสอบกิจการสหกรณ์</a></li>
-                           <li class=" <?php active('consultants');?>"><a href="<?php echo base_url();?>team/consultants">คณะที่ปรึกษา</a></li>
+                           <li class=" <?php echo active('team');?>"><a href="<?php echo base_url();?>team">คณะกรรมการ</a></li>
+                           <li class=" <?php echo active('manage');?>"><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li>
+                           <li class=" <?php echo active('check');?>"><a href="<?php echo base_url();?>team/check">คณะผู้ตรวจสอบกิจการสหกรณ์</a></li>
+                           <li class=" <?php echo active('consultants');?>"><a href="<?php echo base_url();?>team/consultants">คณะที่ปรึกษา</a></li>
                            <!-- <li><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li> -->
                         </ul>
                         <!-- End of Dropdown menu -->
                      </li>
-                     <li class="nav-item <?php active('contact');?>">
+                     <li class="nav-item <?php echo active('contact');?>">
                         <a class="nav-link" href="<?php echo base_url();?>contact">ติดต่อเรา</a>
                     </li>
                   </ul>
