@@ -24,9 +24,9 @@
             <div class="col-md-4 ml-auto text-right">
                <div class="top-social-links">
                   <span>Follow us:</span>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
+                  <a href="#"><i class="fab fa-facebook-f"></i></a>
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                  <a href="#"><i class="fab fa-google-plus"></i></a>
                </div>
             </div>
             <!-- Col End -->

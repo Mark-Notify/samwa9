@@ -33,10 +33,10 @@
                         <h3 class="team-name">นายวานิช พาชารี</h3>
                         <p class="team-designation">ประธานคณะผู้ตรวจสอบกิจการสหกรณ์</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -57,10 +57,10 @@
                         <h3 class="team-name">นายวิเชียร กะไรมณี</h3>
                         <p class="team-designation">ผู้ตรวจสอบกิจการสหกรณ์</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>

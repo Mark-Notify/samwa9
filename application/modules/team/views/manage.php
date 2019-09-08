@@ -32,10 +32,10 @@
                         <h3 class="team-name">นางสาววรินทร์ทิพย์  เสือเจริญ</h3>
                         <p class="team-designation">ผู้จัดการ</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -60,10 +60,10 @@
                         <h3 class="team-name">นางสาวธัญญาภัทร อุ่ยวัชรานนท์ </h3>
                         <p class="team-designation">เจ้าหน้าที่การเงิน</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -84,10 +84,10 @@
                         <h3 class="team-name">นายอโนชา รักษาชนม์</h3>
                         <p class="team-designation">เจ้าหน้าที่ฝ่ายกฏหมาย</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>

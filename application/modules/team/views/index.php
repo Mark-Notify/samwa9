@@ -32,10 +32,10 @@
                         <h3 class="team-name">ดร.ปิยเกียรติ สาวิกันย์</h3>
                         <p class="team-designation">ประธาน</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -61,10 +61,10 @@
                         <h3 class="team-name">นายคันศร คมภักดี</h3>
                         <p class="team-designation">รองประธาน</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -85,10 +85,10 @@
                         <h3 class="team-name">นายธนัช โสภารักษ์</h3>
                         <p class="team-designation">เลขา</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -113,10 +113,10 @@
                         <h3 class="team-name">นางวิภา อุ่ยวัชรานนท์</h3>
                         <p class="team-designation">เหรัญญิก</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -137,10 +137,10 @@
                         <h3 class="team-name">นายทองดี ภัยปัด</h3>
                         <p class="team-designation">คณะกรรมการ</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -160,10 +160,10 @@
                         <h3 class="team-name">นางสาวศิรินทิพย์ เพ็ชรประสม</h3>
                         <p class="team-designation">คณะกรรมการ</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -183,10 +183,10 @@
                         <h3 class="team-name">นายธงชัย ลิ้มเหนี่ยวตี่</h3>
                         <p class="team-designation">คณะกรรมการ</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -207,10 +207,10 @@
                         <h3 class="team-name">นางสาวสมบัติ พุ่มบัว</h3>
                         <p class="team-designation">คณะกรรมการ</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
@@ -230,10 +230,10 @@
                         <h3 class="team-name">นายธานี  นาคมณี</h3>
                         <p class="team-designation">คณะกรรมการ</p>
                         <div class="team-social-links">
-                           <a href="#"><i class="fa fa-facebook"></i></a>
-                           <a href="#"><i class="fa fa-twitter"></i></a>
-                           <a href="#"><i class="fa fa-instagram"></i></a>
-                           <a href="#"><i class="fa fa-linkedin"></i></a>
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
                         </div>
                      </div>
                   </div>
