@@ -6,6 +6,7 @@
    <!-- Mobile Specific Metas ================================-->
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <meta  name="keyword" content="สหกรณ์,เครดิตยูเนี่ยน,เครดิตยูเนี่ยน,สหกรณ์เครดิตยูเนี่ยนเครดิตยูเนี่ยน จำกัด, 63/1827 ซอย คลองเก้า 7 แขวง สามวาตะวันออก เขตคลองสามวา กรุงเทพมหานคร 10510">
    <!-- Site Title- -->
    <title>สหกรณ์เครดิตยูเนี่ยนสามวาตะวันออก จำกัด</title>
    <!-- CSS
