@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/admin-samwa/";
+$config['base_url'] = "https://samwa9.com/admin-samwa/";
 
 // if($_SERVER['HTTP_HOST'] == 'localhost'){
 // 	$config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/samwa9/admin-samwa/";
