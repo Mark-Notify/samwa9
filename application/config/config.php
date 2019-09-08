@@ -25,8 +25,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // $config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/cpd/";
 if($_SERVER['HTTP_HOST'] == 'localhost'){
-	$config['base_url'] = "/cpd/";
-}else if ($_SERVER['HTTP_HOST'] == 'cpd.com'){
+	$config['base_url'] = "/samwa9/";
+}else if ($_SERVER['HTTP_HOST'] == 'samwa9.com'){
 	$config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/";
 }else{
 	$config['base_url'] = "https://".$_SERVER['HTTP_HOST']."/";

@@ -1,8 +1,9 @@
 <?php
-   echo $url = APPPATH;
-   $curl = explode("/",$url);
+   $url_array =  explode('/', $_SERVER['REQUEST_URI']) ;
+   $url = end($url_array);  
+   
 ?>
- <!-- style="background: url(http://58.181.196.41/onep/images/bg.png) no-repeat fixed center bottom / 100%;" -->
+<!-- style="background: url(http://58.181.196.41/onep/images/bg.png) no-repeat fixed center bottom / 100%;" -->
 <body style="background: #f5f5f5 url('<?php echo base_url()?>img/bg5.jpg');background-repeat: repeat;background-attachment: fixed;background-size: 100% 105%, auto;">
    <div class="search-bar">
       <i class="fa fa-close"></i>
@@ -56,27 +57,26 @@
                <!-- End of Navbar toggler -->
                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                   <ul class="navbar-nav">
-                     <li class="nav-item">
-                        <a class="nav-link <?php echo active('');?>" href="<?php echo base_url();?>">หน้าแรก</a>
+                     <li class="nav-item dropdown <?php echo ($url == '') ?'active' : '' ; ?>">
+                        <a class="nav-link" href="<?php echo base_url();?>">หน้าแรก</a>
                      </li>
-                     <li class="nav-item">
-                        <a class="nav-link <?php echo active('about');?>" href="<?php echo base_url();?>about">เกี่ยวกับเรา</a>
+                     <li class="nav-item dropdown <?php echo ($url == 'about') ?'active' : '' ; ?>">
+                        <a class="nav-link" href="<?php echo base_url();?>about">เกี่ยวกับเรา</a>
                      </li>
-                     <li class="nav-item dropdown  <?php echo active('team');?>">
+                     <li class="nav-item dropdown <?php echo ($url == 'team' OR $url == 'manage' OR $url == 'check' OR $url == 'consultants') ?'active' : '' ; ?>">
                         <a class="nav-link" href="#" data-toggle="dropdown">
                            สมาชิกองค์กร
                            <span class="tw-indicator"><i class="fa fa-angle-down"></i></span>
                         </a>
                         <ul class="dropdown-menu tw-dropdown-menu">
-                           <li class=" <?php echo active('team');?>"><a href="<?php echo base_url();?>team">คณะกรรมการ</a></li>
-                           <li class=" <?php echo active('manage');?>"><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li>
-                           <li class=" <?php echo active('check');?>"><a href="<?php echo base_url();?>team/check">คณะผู้ตรวจสอบกิจการสหกรณ์</a></li>
-                           <li class=" <?php echo active('consultants');?>"><a href="<?php echo base_url();?>team/consultants">คณะที่ปรึกษา</a></li>
-                           <!-- <li><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li> -->
+                           <li class="<?php echo ($url == 'team') ?'active' : '' ; ?>"><a href="<?php echo base_url();?>team">คณะกรรมการ</a></li>
+                           <li class="<?php echo ($url == 'manage') ?'active' : '' ; ?>"><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li>
+                           <li class="<?php echo ($url == 'check') ?'active' : '' ; ?>"><a href="<?php echo base_url();?>team/check">คณะผู้ตรวจสอบกิจการสหกรณ์</a></li>
+                           <li class="<?php echo ($url == 'consultants') ?'active' : '' ; ?>"><a href="<?php echo base_url();?>team/consultants">คณะที่ปรึกษา</a></li>
                         </ul>
                         <!-- End of Dropdown menu -->
                      </li>
-                     <li class="nav-item <?php echo active('contact');?>">
+                     <li class="nav-item dropdown <?php echo ($url == 'contact') ?'active' : '' ; ?> <?php echo active('contact');?>">
                         <a class="nav-link" href="<?php echo base_url();?>contact">ติดต่อเรา</a>
                     </li>
                   </ul>
@@ -97,3 +97,9 @@
       <!-- End tw head -->
    </header>
    <!-- End of Header area -->
+
+<script type="text/javascript">
+   if (href === window.location.pathname) {
+      $('a[href='+ href +']').addClass('active');
+   }
+</script>

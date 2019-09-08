@@ -50,11 +50,11 @@
                         <div class="share-items pull-right">
                            <ul class="post-social-icons unstyled">
                               <li><strong>Share: </strong></li>
-                              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                              <li><a href="#"><i class="fad fa-facebook"></i></a></li>
+                              <li><a href="#"><i class="fad fa-twitter"></i></a></li>
+                              <li><a href="#"><i class="fad fa-google-plus"></i></a></li>
+                              <li><a href="#"><i class="fad fa-linkedin"></i></a></li>
+                              <li><a href="#"><i class="fad fa-instagram"></i></a></li>
                            </ul>
                         </div>
                         <!-- Share items end -->
