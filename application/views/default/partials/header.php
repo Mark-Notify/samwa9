@@ -68,10 +68,10 @@
                            <span class="tw-indicator"><i class="fa fa-angle-down"></i></span>
                         </a>
                         <ul class="dropdown-menu tw-dropdown-menu">
-                           <li class=" <?php if($curl[2]=='team'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team">คณะกรรมการ</a></li>
-                           <li class=" <?php if($curl[2]=='manage'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li>
-                           <li class=" <?php if($curl[2]=='check'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team/check">คณะผู้ตรวจสอบกิจการสหกรณ์</a></li>
-                           <li class=" <?php if($curl[2]=='consultants'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team/consultants">คณะที่ปรึกษา</a></li>
+                           <li class=" <?php if($curl[1]=='team' AND $curl[2]=='team'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team">คณะกรรมการ</a></li>
+                           <li class=" <?php if($curl[1]=='team' AND $curl[2]=='manage'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li>
+                           <li class=" <?php if($curl[1]=='team' AND $curl[2]=='check'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team/check">คณะผู้ตรวจสอบกิจการสหกรณ์</a></li>
+                           <li class=" <?php if($curl[1]=='team' AND $curl[2]=='consultants'){ echo 'active';} ?>"><a href="<?php echo base_url();?>team/consultants">คณะที่ปรึกษา</a></li>
                            <!-- <li><a href="<?php echo base_url();?>team/manage">ฝ่ายจัดการ</a></li> -->
                         </ul>
                         <!-- End of Dropdown menu -->
