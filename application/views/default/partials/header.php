@@ -1,5 +1,5 @@
 <?php
-   $url = $_SERVER["REQUEST_URI"];
+   echo $url = $_SERVER["REQUEST_URI"];
    $curl = explode("/",$url);
 ?>
  <!-- style="background: url(http://58.181.196.41/onep/images/bg.png) no-repeat fixed center bottom / 100%;" -->
@@ -76,7 +76,7 @@
                         </ul>
                         <!-- End of Dropdown menu -->
                      </li>
-                     <li class="nav-item">
+                     <li class="nav-item <?php if($curl[1]=='contact'){ echo 'active';} ?>">
                         <a class="nav-link" href="<?php echo base_url();?>contact">ติดต่อเรา</a>
                     </li>
                   </ul>
