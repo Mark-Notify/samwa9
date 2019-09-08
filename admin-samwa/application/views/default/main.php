@@ -32,10 +32,11 @@
   <link href="https://fonts.googleapis.com/css?family=Kanit&display=swap" rel="stylesheet">
   <!-- Include Editor style. -->
   <link href="https://cdn.jsdelivr.net/npm/froala-editor@3.0.0-beta.1/css/froala_editor.pkgd.min.css" rel="stylesheet" type="text/css" />
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/froala-editor@3.0.0-beta.1/js/froala_editor.pkgd.min.js"></script>
+  <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/froala-editor@3.0.0-beta.1/js/froala_editor.pkgd.min.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
   <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/themes/default/custom/custom.css">
-
+<!-- froala_editor.pkgd.min.js -->
+<script src="<?php echo base_url();?>assets/themes/default/froala_editor/froala_editor.pkgd.min.js"></script>
 </head>
 
 <body class="hold-transition sidebar-mini">
