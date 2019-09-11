@@ -95,7 +95,7 @@
                      <ul>
                         <li><a href="<?php echo base_url();?>">หน้าแรก</a></li>
                         <li><a href="<?php echo base_url();?>about">เกี่ยวกับเรา</a></li>
-                        <li><a href="<?php echo base_url();?>team">คณะทำงาน</a></li>
+                        <li><a href="<?php echo base_url();?>team">คณะกรรมการ</a></li>
                         <li><a href="<?php echo base_url();?>contact">ติดต่อเรา</a></li>
                      </ul>
                   </div>

@@ -52,6 +52,30 @@
             <div class="col-sm-4 col-md-3 center wow bounceInDown">
                <div class="tw-latest-post">
                   <div class="latest-post-media text-center">
+                     <img src="<?php echo base_url();?>/image/24425.jpg" alt="blog_image_one" class="img-fluid">
+                  </div>
+                  <!-- End Latest Post Media -->
+                  <div class="post-body">
+                     <div class="team-info">
+                        <h3 class="team-name">นายปรินทร์   ชาวไร่</h3>
+                        <p class="team-designation">เจ้าหน้าที่บัญชี</p>
+                        <div class="team-social-links">
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- End Post Body -->
+               </div>
+               <!-- End Col -->
+            </div>
+            <!-- Col End -->
+            
+            <div class="col-sm-4 col-md-3 center wow bounceInDown">
+               <div class="tw-latest-post">
+                  <div class="latest-post-media text-center">
                      <img src="<?php echo base_url();?>/image/20823.jpg" alt="blog_image_one" class="img-fluid">
                   </div>
                   <!-- End Latest Post Media -->
