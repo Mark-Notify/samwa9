@@ -29,7 +29,7 @@
                   <!-- End Latest Post Media -->
                   <div class="post-body">
                      <div class="team-info">
-                        <h3 class="team-name">นางสาววรินทร์ทิพย์  เสือเจริญ</h3>
+                        <h3 class="team-name">นางสาว วรินทร์ทิพย์  เสือเจริญ</h3>
                         <p class="team-designation">ผู้จัดการ</p>
                         <div class="team-social-links">
                            <a href="#"><i class="fab fa-facebook"></i></a>
@@ -72,7 +72,7 @@
                <!-- End Col -->
             </div>
             <!-- Col End -->
-            
+
             <div class="col-sm-4 col-md-3 center wow bounceInDown">
                <div class="tw-latest-post">
                   <div class="latest-post-media text-center">
