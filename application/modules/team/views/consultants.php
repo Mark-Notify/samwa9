@@ -49,6 +49,35 @@
             <div class="col-sm-4 col-md-3 center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInUp;">
                <div class="tw-latest-post">
                   <div class="latest-post-media text-center">
+                     <img src="<?php echo base_url();?>/image/21380.jpg" alt="blog_image_one" class="img-fluid">
+                  </div>
+                  <!-- End Latest Post Media -->
+                  <div class="post-body">
+                     <div class="team-info">
+                        <h3 class="team-name">นายภูมิรพี  คำหอม</h3>
+                        <p class="team-designation">ที่ปรึกษา</p>
+                        <div class="team-social-links">
+                           <a href="#"><i class="fab fa-facebook"></i></a>
+                           <a href="#"><i class="fab fa-twitter"></i></a>
+                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="#"><i class="fab fa-linkedin"></i></a>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- End Post Body -->
+               </div>
+               <!-- End Col -->
+            </div>
+            <!-- Col End -->
+         </div>
+         <!-- Content Row End -->
+
+         <!-- Title row End -->
+         <div class="row">
+
+            <div class="col-sm-4 col-md-3 center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInUp;">
+               <div class="tw-latest-post">
+                  <div class="latest-post-media text-center">
                      <img src="<?php echo base_url();?>/image/21394.jpg" alt="blog_image_one" class="img-fluid">
                   </div>
                   <!-- End Latest Post Media -->
@@ -73,12 +102,12 @@
             <div class="col-sm-4 col-md-3 center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInUp;">
                <div class="tw-latest-post">
                   <div class="latest-post-media text-center">
-                     <img src="<?php echo base_url();?>/image/21380.jpg" alt="blog_image_one" class="img-fluid">
+                     <img src="<?php echo base_url();?>/image/22712.jpg" alt="blog_image_one" class="img-fluid">
                   </div>
                   <!-- End Latest Post Media -->
                   <div class="post-body">
                      <div class="team-info">
-                        <h3 class="team-name">นายภูมิรพี  คำหอม</h3>
+                        <h3 class="team-name">รศ.ดร.วีระวัฒน์ อุทัยรัตน์</h3>
                         <p class="team-designation">ที่ปรึกษา</p>
                         <div class="team-social-links">
                            <a href="#"><i class="fab fa-facebook"></i></a>
